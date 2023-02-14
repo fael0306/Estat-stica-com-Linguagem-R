@@ -8,4 +8,4 @@ Não carregar csv's ou xlsx's deste curso. São arquivos muito grandes e não s�
 
 Biblioteca completa: Tidyverse
 
-if(!require(tidyverse)) install.packages("tidyverse")
+Para instalar a biblioteca, usar Packages>Install no RStudio
